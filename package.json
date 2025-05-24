@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Hi Everyone. I started learning typescript by Ibrokhim Ismoilov's YouTube Channel. \r Started at 24.05.2025 and I need to finish before 30.06.2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiyodulloRakhmonberdiev/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ZiyodulloRakhmonberdiev/typescript/issues"
+  },
+  "homepage": "https://github.com/ZiyodulloRakhmonberdiev/typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
