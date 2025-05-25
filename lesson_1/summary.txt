@@ -1,0 +1,9 @@
+npm install -D typescript
+
+tsc -v
+
+
+tsc index.ts for compile specefec file
+tsc --watch for compile everything
+
+enable source map in tsconfig.json file for sourcing maps
